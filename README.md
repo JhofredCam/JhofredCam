@@ -5,7 +5,9 @@
 Software Engineer at **FIRTH**, currently working with **AWS, data pipelines, serverless applications, and event-driven workflows** while deepening my knowledge of **cloud architecture and data engineering**.
 
 🎓 **Systems & Computer Engineering** — Universidad Nacional de Colombia, Medellín
+
 🎯 Moving toward **Data Engineering & AI Engineering**
+
 📚 Currently pursuing the **Data Engineering Professional Certificate — DeepLearning.AI**
 
 ---
