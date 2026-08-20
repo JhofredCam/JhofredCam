@@ -62,16 +62,6 @@ Working on cloud-based backend systems and data workflows for an AI-driven inter
 
 ---
 
-## 🤖 AI & Data
-
-### Academic Requests RAG · UNAL Minas
-
-RAG-based system for retrieving and generating answers from academic information.
-
-**Focus:** Python · RAG · Retrieval · Vector Search
-
----
-
 ## 📊 GitHub
 
 <p align="center">
